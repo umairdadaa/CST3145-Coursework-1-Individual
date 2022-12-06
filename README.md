@@ -2,7 +2,7 @@
 ### Umair Dada (M00740467)
 ## CST3145
 ### Repository
-- https://github.com/umairdadaa/CST3145-Coursework1Individual
+- https://github.com/umairdadaa/Web-App-CST-3145-
 
 ### GitHUB Pages Deployment
 - https://umairdadaa.github.io/CST3145-Coursework1Individual/
