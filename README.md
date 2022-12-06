@@ -5,7 +5,7 @@
 - https://github.com/umairdadaa/Web-App-CST-3145-
 
 ### GitHUB Pages Deployment
-- https://umairdadaa.github.io/CST3145-Coursework1Individual/
+- https://umairdadaa.github.io/Web-App-CST-3145-/
 
 ### Project Description
 
