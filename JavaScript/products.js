@@ -6,7 +6,7 @@ const products = [
     price: 425,
     space: 6,
     desc: 'A field of study that involves the use of numbers, symbols, and mathematical operations to solve problems and analyze data.',
-    image: 'assets/webp/math.webp',
+    image: 'assets/webp/Math.webp',
     cartquantity: 0,
   },
   {
@@ -16,7 +16,7 @@ const products = [
     price: 350,
     space: 4,
     desc: 'The study of language, literature, and communication in the English language, including grammar, writing, and reading comprehension.',
-    image: 'assets/webp/english.webp',
+    image: 'assets/webp/English.webp',
     cartquantity: 0,
   },
   {
@@ -26,7 +26,7 @@ const products = [
     price: 425,
     space: 8,
     desc: "A team sport that involves two teams of 11 players each, with the goal of scoring more goals than the other team by kicking a ball into the opposing team's net.",
-    image: 'assets/webp/football.webp',
+    image: 'assets/webp/Football.webp',
     cartquantity: 0,
   },
   {
@@ -36,7 +36,7 @@ const products = [
     price: 250,
     space: 6,
     desc: 'The study of the past, including events, societies, and individuals, with a focus on understanding how past events and actions continue to shape the present and future.',
-    image: 'assets/webp/history.webp',
+    image: 'assets/webp/History.webp',
     cartquantity: 0,
   },
   {
@@ -56,7 +56,7 @@ const products = [
     price: 300,
     space: 7,
     desc: 'The study of matter, energy, and the fundamental laws of the universe, including mechanics, thermodynamics, and electromagnetism.',
-    image: 'assets/webp/physics.webp',
+    image: 'assets/webp/Physics.webp',
     cartquantity: 0,
   },
   {
@@ -76,7 +76,7 @@ const products = [
     price: 300,
     space: 6,
     desc: 'The study of living organisms, including their structure, function, and behavior, as well as their interactions with the environment.',
-    image: 'assets/webp/biology.webp',
+    image: 'assets/webp/Biology.webp',
     cartquantity: 0,
   },
   {
@@ -106,7 +106,7 @@ const products = [
     price: 250,
     space: 9,
     desc: 'The physical and mental preparation required to play cricket at a competitive level, including skill development in batting, bowling, fielding, and strategy, as well as fitness and conditioning.',
-    image: 'assets/webp/cricket.webp',
+    image: 'assets/webp/Cricket.webp',
     cartquantity: 0,
   },
   {
@@ -126,7 +126,7 @@ const products = [
     price: 250,
     space: 5,
     desc: 'The creation and appreciation of visual and/or performing arts, including painting, sculpture, music, theater, and dance.',
-    image: 'assets/webp/art.webp',
+    image: 'assets/webp/Art.webp',
     cartquantity: 0,
   },
   {
@@ -136,7 +136,7 @@ const products = [
     price: 400,
     space: 6,
     desc: 'The creation and performance of sound and rhythm using instruments or the human voice, often with a focus on melody, harmony, and rhythm.',
-    image: 'assets/webp/music.webp',
+    image: 'assets/webp/Music.webp',
     cartquantity: 0,
   },
   {
