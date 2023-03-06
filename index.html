@@ -185,7 +185,7 @@
                               <small class="text-black text-muted">Quantity: {{product.cartquantity}}</small>
                            </div>
                            <div>
-                              <a class="ml-4 text-2xl cursor-pointer"><i class="uil uil-trash text-red-500 text-xl"></i></a>
+                              <a class="ml-4 text-2xl cursor-pointer"><i v-on:click="removeFromCart(product)" class="uil uil-trash text-red-500 text-xl"></i></a>
                            </div>
                         </li>
                         <li class="list-group-item flex justify-between text-black"><span><b>Total (USD)</b></span><strong>{{cartTotal}}</strong>
